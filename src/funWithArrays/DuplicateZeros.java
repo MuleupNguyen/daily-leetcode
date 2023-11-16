@@ -52,6 +52,7 @@ public class DuplicateZeros {
         duplicateZeros(arr);
         duplicateZeros(arr2);
         System.out.println(Arrays.toString(arr));
+        
         System.out.println(Arrays.toString(arr2));
 
     }
